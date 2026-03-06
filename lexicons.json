@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "name": "Six-Dim Lexicon Pack",
+    "version": "1.1",
+    "notes": "Populate each array with lowercase tokens; duplicates not needed."
+  },
+  "dimensions": {
+    "emo":      ["happy", "sad", "angry", "excited", "afraid"],
+
+    "coord":    ["we", "together", "join", "share", "collaborate"],
+
+    "abstract": ["concept", "idea", "theory", "philosophy", "notion"],
+
+    "dim4":     ["I", "me", "myself", "agency", "decide"],         
+
+    "dim5":     ["will", "future", "plan", "tomorrow", "goal"],     
+
+    "dim6":     ["mirror", "reflect", "aware", "introspect", "self"] 
+  }
+}
